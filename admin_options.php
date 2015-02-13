@@ -1,4 +1,5 @@
 <?php
+
 if( !class_exists( 'Cobia_System_Admin' ) ) {
 	
 	require_once "main.php";

@@ -1,14 +1,5 @@
 <?php
 
-/*
-Plugin Name: Cobia Systems
-Plugin URI: http://cobiasystems.com
-Description: Cobia Systems
-Author: Cobia Systems
-Author URI: http://cobiasystems.com
-Version: 0.1
-*/
-
 if( !class_exists( 'Cobia_System_Pages' ) && !class_exists( 'Cobia_System_Plugin' ) ) {
 	
 	require_once "main.php";
